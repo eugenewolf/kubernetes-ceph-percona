@@ -6,29 +6,29 @@
 
 
 # master01 ip address
-export K8SHA_IP1=10.73.71.25
+export K8SHA_IP1=172.16.20.21
 
 # master02 ip address
-export K8SHA_IP2=10.73.71.26
+export K8SHA_IP2=172.16.20.22
 
 # master03 ip address
-export K8SHA_IP3=10.73.71.27
+export K8SHA_IP3=172.16.20.23
 
 
 # master01 hostname
-export K8SHA_HOSTNAME1=master01
+export K8SHA_HOSTNAME1=master1
 
 # master02 hostname
-export K8SHA_HOSTNAME2=master02
+export K8SHA_HOSTNAME2=master2
 
 # master03 hostname
-export K8SHA_HOSTNAME3=master03
+export K8SHA_HOSTNAME3=master3
 
 #etcd tocken:
 export ETCD_TOKEN=9489bf67bdfe1b3ae077d6fd9e7efefd
 
 #etcd version
-export ETCD_VERSION="v3.3.10"
+export ETCD_VERSION="v3.3.18"
 
 
 ##############################
